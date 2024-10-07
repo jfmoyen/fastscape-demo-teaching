@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfmoyen/fastscape-demo-teaching/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfmoyen/fastscape-demo-teaching/master?labpath=Fastscape.ipynb)
+
 [![Test notebooks](https://github.com/fastscape-lem/fastscape-demo/workflows/Test%20notebooks/badge.svg)](https://github.com/fastscape-lem/fastscape-demo/actions)
 
 # FastScape simple use
